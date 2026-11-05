@@ -15,6 +15,6 @@
     "test": "node --test server/lib/analytics/analytics.test.js server/lib/preflight.test.js"
   },
   "dependencies": {
-    "puppeteer-core": "^24.15.0"
+    "puppeteer-core": "^25.16.0"
   }
 }
